@@ -6,5 +6,5 @@ var shopper = {
     fullName: function() {
         return this.firstName + " " + this.lastName;
     }
-    groceryCart: ["steak", "potatoes", "lettuce", "apples"];
-};
+    groceryCart: ["steak", "potatoes", "lettuce", "apples"]
+}

@@ -26,5 +26,5 @@ if("Bobby".age > 18) {
 if(("Bobby".charAt(0) === "B") && ("Bobby" > 18)) {
     console.log ("Bobby is allowed to go to the movie!");
 } else {
-    console.log ("Bobby is not allowed to go to the movie")
+    console.log ("Bobby is not allowed to go to the movie!");
 }
